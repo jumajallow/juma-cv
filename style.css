@@ -152,9 +152,12 @@ h1, h2 {
     line-height: .5;
 }
 
-.affiliations,
+.affiliations{
+    font-size: 1.1em;
+    padding-bottom: 10px;
+}
 .education {
-    font-size: 1.0em;
+    font-size: 0.9em;
     padding-bottom: 10px;
 }
 
