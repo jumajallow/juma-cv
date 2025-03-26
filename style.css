@@ -154,6 +154,7 @@ h1, h2 {
 
 .affiliations,
 .education {
+    font-size: 0.9em;
     padding-bottom: 10px;
 }
 
