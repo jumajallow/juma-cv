@@ -145,7 +145,10 @@ h1, h2 {
 }
 
 /* Reduced Spacing */
-.interests p,
+.interests p{
+    font-size: 0.9em;
+    padding-bottom: 10px;
+}
 .affiliations p,
 .education p {
     margin-bottom: 2px;
