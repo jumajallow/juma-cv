@@ -153,7 +153,7 @@ h1, h2 {
 }
 
 .interests{
-    font-size: 0.9em;
+    font-size: 0.9em !important;
     padding-bottom: 10px;
 }
 .affiliations{
