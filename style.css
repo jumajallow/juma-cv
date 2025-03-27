@@ -320,3 +320,17 @@ a:visited {
     margin-bottom: 10px;
     font-weight: bold !important; /* Make it bold */
 }
+
+
+.content ul li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 4px;
+    line-height: 1.2;
+}
+
+.content ul li a {
+    word-break: break-word;
+    flex-shrink: 1;
+}
