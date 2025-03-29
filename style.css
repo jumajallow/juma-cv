@@ -148,7 +148,7 @@ h1, h2 {
 .interests p,
 .affiliations p,
 .education p {
-    line-height: 2;
+    line-height: 1.2;
     padding: 2px 0;
     margin: 0;
     word-wrap: break-word;
