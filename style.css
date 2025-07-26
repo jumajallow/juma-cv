@@ -324,4 +324,23 @@ a:visited {
 }
 
 
+/* Skills Section */
+.skills {
+    text-align: left !important;
+    background: none;
+    box-shadow: none;
+    padding: 0 0 0 10px; /* Add left indent */
+    margin-top: 15px;
+}
+
+.skills h2 {
+    text-align: left !important;
+    margin-bottom: 5px;
+}
+
+.skills ul {
+    font-size: 0.9em;
+    padding-left: 15px; /* Further indent the bullet points */
+    list-style-position: inside;
+}
 
