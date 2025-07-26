@@ -364,3 +364,20 @@ section + section {
   list-style-type: disc;
   font-size: 0.9em;
 }
+
+/* Fix alignment of the skills section inside the profile panel */
+.profile .skills {
+  text-align: left;
+  padding-left: 15px;
+  margin-top: 20px;
+}
+
+.profile .skills h2 {
+  text-align: left;
+  margin-bottom: 8px;
+}
+
+.profile .skills ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
