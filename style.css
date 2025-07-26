@@ -344,3 +344,23 @@ section + section {
     margin-bottom: 10px;
     font-weight: bold !important; /* Make it bold */
 }
+
+
+
+/* Fix alignment of skills section */
+.skills {
+  text-align: left !important;
+  margin-top: 20px;
+  padding-left: 10px;
+}
+
+.skills h2 {
+  text-align: left !important;
+  margin-bottom: 8px;
+}
+
+.skills ul {
+  padding-left: 15px;
+  list-style-type: disc;
+  font-size: 0.9em;
+}
